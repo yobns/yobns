@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/yobns/yobns/assets/132787980/48d558f6-34b3-47a0-a6b0-d1c0f8788a22" width="200px"/>
+  <img src="https://github.com/yobns/yobns/assets/132787980/3e83ee7e-75ba-4858-9c0f-dcaa5e649ae2" width="200px"/>
 </div>
 
 **`🚀 I am a full-stack developer who loves to create innovative and efficient web solutions. I have experience in sales and customer service, where I honed my skills in communication and persuasion. I am proficient in front-end and back-end technologies such as Next.js, React.js, JavaScript, NodeJS, Express, SQL, MongoDB, Vercel... I can also code in C.`**
