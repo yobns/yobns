@@ -5,7 +5,7 @@
   <img src="https://github.com/yobns/yobns/assets/132787980/3e83ee7e-75ba-4858-9c0f-dcaa5e649ae2" width="200px"/>
 </div>
 
-**`🚀 I am a full-stack developer who loves to create innovative and efficient web solutions. I have experience in sales and customer service, where I honed my skills in communication and persuasion. I am proficient in front-end and back-end technologies such as Next.js, React.js, JavaScript, NodeJS, Express, SQL, MongoDB, Vercel... I can also code in C.`**
+**`🚀 I am a full-stack developer who loves to create innovative and efficient web solutions. Currently at 42 Paris. I am proficient in front-end and back-end technologies such as Next.js, React.js, JavaScript, NodeJS, Express, SQL, MongoDB, Vercel... I can also code in C.`**
 
 <br>
 <div id="header" align="center">
